@@ -1,0 +1,40 @@
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.exe.config
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.exe
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.pdb
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csprojAssemblyReference.cache
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.Properties.Resources.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csproj.GenerateResource.cache
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.exe
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.pdb
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.GlavnaForma.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAdmin.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormIzbor.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajKorisnika.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAzuriraj.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajAuto.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormKupac.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormRezervisi.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAzurirajRezervacije.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajRezervaciju.resources
+D:\Visual Studio 2017\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormStatistika.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.exe.config
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.exe
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\bin\Debug\IznajmiAuto.pdb
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAdmin.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.GlavnaForma.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAzuriraj.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormAzurirajRezervacije.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajAuto.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajKorisnika.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormDodajRezervaciju.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormIzbor.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormKupac.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormRezervisi.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.FormStatistika.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.Properties.Resources.resources
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.exe
+C:\Users\marko\Desktop\IznajmiAuto\IznajmiAuto\obj\Debug\IznajmiAuto.pdb
